@@ -1,1 +1,1 @@
-This repository serves as a collection of Physics simulations or visualizations.
+This repository serves as a collection of Physics-related simulations or visualizations.
